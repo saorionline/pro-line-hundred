@@ -20,3 +20,7 @@ setTimeout(greeting, 2000, 'Alexa');
 
 // new deal
 
+function myFunc(callback){
+    setTimeout(callback, 2000)
+    console.log("wait")
+}
