@@ -1,0 +1,22 @@
+{
+  "name": "pro-line-hundred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saorionline/pro-line-hundred.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "SaoriOnline <saorionline021@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saorionline/pro-line-hundred/issues"
+  },
+  "homepage": "https://github.com/saorionline/pro-line-hundred#readme"
+}
