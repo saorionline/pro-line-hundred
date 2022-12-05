@@ -17,3 +17,6 @@ function greeting (logicName) {
 }
 
 setTimeout(greeting, 2000, 'Alexa');
+
+// new deal
+

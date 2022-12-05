@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/saorionline/pro-line-hundred/issues"
   },
-  "homepage": "https://github.com/saorionline/pro-line-hundred#readme"
+  "homepage": "https://github.com/saorionline/pro-line-hundred#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
